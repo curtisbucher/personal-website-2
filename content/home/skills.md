@@ -22,12 +22,12 @@ feature:
   name: Python
 
 - description: Front End Web Design with React
-  icon: fa-react
+  icon: react
   icon_pack: fab
   name: React.js
 
 - description: Javascript Programming
-  icon: fa-js-square
+  icon: square
   icon_pack: fas
   name: Javascript
 

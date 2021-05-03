@@ -29,7 +29,7 @@ experience:
     location: New York
     date_start: '2019-10-01'
     date_end: '2020-01-01'
-    description: Write and maintained AWS web app responsible for configuration and sale   of  millions of dollars of home theater equipment. See demo at config.rayva.com:3000
+    description: Write and maintained AWS web app responsible for configuration and sale of millions of dollars of home theater equipment. See demo at config.rayva.com:3000
 
   - title: Online Advertising / Social Media
     company: 101 Mobility Orange County

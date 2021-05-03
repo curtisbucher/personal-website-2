@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer (Remote)
     company: Rayva Home Theaters
     company_url: 'https://rayva.com'
-    company_logo: rayva.jpg
+    company_logo:
     location: New York
     date_start: '2019-10'
     date_end: '2020-01'
@@ -34,7 +34,7 @@ experience:
   - title: Online Advertising / Social Media
     company: 101 Mobility Orange County
     company_url: 'https://101mobility.com'
-    company_logo: rayva.jpg
+    company_logo:
     location: Costa Mesa, California
     date_start: '2020-06'
     date_end: ''
@@ -43,7 +43,7 @@ experience:
   - title: Lab Technician
     company: Virtual-E Corporation | Talk Star Inc.
     company_url: 'https://rayva.com'
-    company_logo: rayva.jpg
+    company_logo:
     location: New York
     date_start: '2019-10'
     date_end: '2020-01'
@@ -52,7 +52,7 @@ experience:
   - title: Software Engineer (Remote)
     company: Rayva Home Theaters
     company_url: 'https://rayva.com'
-    company_logo: rayva.jpg
+    company_logo:
     location: New York
     date_start: '2019-10'
     date_end: '2020-01'

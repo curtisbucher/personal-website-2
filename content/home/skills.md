@@ -21,14 +21,15 @@ feature:
   icon_pack: fab
   name: Python
 
-- description: 100%
-  icon: chart-line
+- description: Front End Web Design with React
+  icon: fa-react
+  icon_pack: fab
+  name: React.js
+
+- description: Javascript Programming
+  icon: fa-js-square
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Javascript
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

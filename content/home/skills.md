@@ -27,7 +27,7 @@ feature:
   name: React.js
 
 - description: Javascript Programming
-  icon: square
+  icon: js-square
   icon_pack: fas
   name: Javascript
 

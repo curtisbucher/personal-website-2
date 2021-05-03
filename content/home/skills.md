@@ -28,7 +28,7 @@ feature:
 
 - description: Javascript Programming
   icon: js-square
-  icon_pack: fas
+  icon_pack: fab
   name: Javascript
 
 # Uncomment to use emoji icons.

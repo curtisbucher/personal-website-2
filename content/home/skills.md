@@ -17,9 +17,10 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: CPython Contributor
-  icon: fa-python
+  icon: python
   icon_pack: fab
   name: Python
+
 - description: 100%
   icon: chart-line
   icon_pack: fas

@@ -1,6 +1,6 @@
 ---
 role: Computer Engineering student at Cal Poly San Luis Obispo
-avatar_filename: me1.jpg
+avatar_filename: avatar.jpg
 bio: Hi! My name is Curtis Bucher and I am a high school student from Newport
   Beach, California. I am interested in Python Programming, Machine Learning,
   Computer Hardware, and Vinyl Records. I always enjoy keeping my mind engaged,

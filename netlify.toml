@@ -19,3 +19,9 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+  from = "https://analytics.curtisbucher.netlify.app"
+  to = "http://lead-analytics-portal.s3-website-us-east-1.amazonaws.com"
+  status = 301
+  force = true

@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineering Intern
+    company: Blue Marble Communications
+    company_url: 'www.bluemarblecomms.com'
+    company_logo:
+    location: San Diego, California
+    date_start: '2021-06-14'
+    date_end: ''
+    description:
+
   - title: Software Engineer (Remote)
     company: Rayva Home Theaters
     company_url: 'https://rayva.com'
     company_logo:
     location: New York
     date_start: '2019-10-01'
-    date_end: '2020-01-01'
+    date_end: ''
     description: Write and maintained AWS web app responsible for configuration and sale of millions of dollars of home theater equipment. See demo at config.rayva.com:3000
 
   - title: Online Advertising / Social Media

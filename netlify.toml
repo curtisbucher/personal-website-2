@@ -21,7 +21,7 @@
     debug = true
 
 [[redirects]]
-  from = "https://analytics.curtisbucher.netlify.app"
+  from = "https://curtisbucher.netlify.app/analytics"
   to = "http://lead-analytics-portal.s3-website-us-east-1.amazonaws.com"
   status = 301
   force = true

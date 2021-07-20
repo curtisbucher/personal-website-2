@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Software Engineering Intern
     company: Blue Marble Communications
-    company_url: 'www.bluemarblecomms.com'
+    company_url: 'http://bluemarblecomms.com'
     company_logo:
     location: San Diego, California
     date_start: '2021-06-14'

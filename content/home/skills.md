@@ -23,12 +23,12 @@ feature:
 
 - description: C Development
   icon: code
-  icon_pack: fab
+  icon_pack: fas
   name: C
 
 - description: FPGA design with Verilog
   icon: microchip
-  icon_pack: fab
+  icon_pack: fas
   name: Verilog
 
 - description: Front End Web Design with React
@@ -40,6 +40,11 @@ feature:
   icon: js-square
   icon_pack: fab
   name: Javascript
+
+- description: Unix
+  icon: terminal
+  icon_pack: fas
+  name: Working in the Unix shell. Git, SSH, etc.
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

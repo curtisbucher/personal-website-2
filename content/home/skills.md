@@ -41,10 +41,10 @@ feature:
   icon_pack: fab
   name: Javascript
 
-- description: Unix
+- description: Working in the Unix shell. Git, SSH, etc.
   icon: terminal
   icon_pack: fas
-  name: Working in the Unix shell. Git, SSH, etc.
+  name: Unix
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

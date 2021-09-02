@@ -1,19 +1,14 @@
 ---
-role: Computer Engineering student at Cal Poly San Luis Obispo
+role: Computer Engineering Undergrad
 avatar_filename: avatar.jpg
-bio: Hi! My name is Curtis Bucher and I am a high school student from Newport
-  Beach, California. I am interested in Python Programming, Machine Learning,
-  Computer Hardware, and Vinyl Records. I always enjoy keeping my mind engaged,
-  and at any given time I can expect to be working on several personal projects,
-  including this site! I am an avid reader, and greatly enjoy reading a wide
-  range of books on a variety of subjects. However, I expecially enjoy reading
-  biographies. I love getting coffee with friends, and binging TV shows on
-  Netflix. My favorite of which are Friends and the Office.
+bio: Computer Engineering Undergrad at Cal Poly San Luis Obispo
 interests:
-  - Artificial Intelligence
   - Python
+  - C
+  - Artificial Intelligence
   - Computer Architecture
   - Circuit Design
+  - Web Design
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,6 +35,8 @@ education:
 superuser: true
 highlight_name: false
 title: Curtis Bucher
-email: "cpbucher5@gmail.com"
+email: cpbucher5@gmail.com
 ---
-Hi! My name is Curtis Bucher and I am a high school student from Newport Beach, California. I am interested in Python Programming, Machine Learning, Computer Hardware, and Vinyl Records. I always enjoy keeping my mind engaged, and at any given time I can expect to be working on several personal projects, including this site! I am an avid reader, and greatly enjoy reading a wide range of books on a variety of subjects. However, I expecially enjoy reading biographies. I love getting coffee with friends, and binging TV shows on Netflix. My favorite of which are Friends and the Office.
+Hello, my name is Curtis Bucher, and I am a first-year engineering student at Cal Poly, San Luis Obispo. In my free time, I enjoy reading, playing chess, programming, going to the beach and hiking San Luis Obispo. 
+
+I also particularly enjoy working on engaging personal projects. Currently, I am engaged in an effort to rewrite parts of the CPython interpreter in order to gain a greater understanding of how Python works underneath the hood. 

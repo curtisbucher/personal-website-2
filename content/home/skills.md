@@ -23,8 +23,13 @@ feature:
 
 - description: C Development
   icon: code
-  icon_pack: fas
+  icon_pack: fab
   name: C
+
+- description: FPGA design with Verilog
+  icon: microchip
+  icon_pack: fab
+  name: Verilog
 
 - description: Front End Web Design with React
   icon: react

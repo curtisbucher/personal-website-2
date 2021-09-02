@@ -21,6 +21,11 @@ feature:
   icon_pack: fab
   name: Python
 
+- description: C Development
+  icon: code
+  icon_pack: fas
+  name: C
+
 - description: Front End Web Design with React
   icon: react
   icon_pack: fab

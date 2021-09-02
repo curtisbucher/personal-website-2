@@ -29,7 +29,7 @@ experience:
     location: San Diego, California
     date_start: '2021-06-14'
     date_end: ''
-    description:
+    description: Working on an interdisciplinary team of engineers to develop and improve the Space Regenerative Processor, a high-performance modem and transceiver combining optical and radio technology to enable high speed satellite communication. I am primarily responsible for writing C code to perform automated testing on embedded FPGAs, using sophisticated lab equipment.
 
   - title: Software Engineer (Remote)
     company: Rayva Home Theaters
@@ -37,7 +37,7 @@ experience:
     company_logo:
     location: New York
     date_start: '2019-10-01'
-    date_end: ''
+    date_end: '2021-06-01'
     description: Write and maintained AWS web app responsible for configuration and sale of millions of dollars of home theater equipment. See demo at config.rayva.com:3000
 
   - title: Online Advertising / Social Media
@@ -58,14 +58,14 @@ experience:
     date_end: '2020-03-01'
     description: Responsible for assembly and testing of printed circuit boards for high-fidelity audio equipment. Worked in lab environment with sophisticated audio testing equipment.
 
-  - title: Volunteer Children's Leader
-    company: St. Andrews Presbyterian Church
-    company_url: 'https://sapres.org'
-    company_logo:
-    location: California
-    date_start: '2016-09-01'
-    date_end: '2020-03-01'
-    description: Responsible for a small group of 1st to 3rd grade boys. Prepared lesson plans and activities.
+  # - title: Volunteer Children's Leader
+  #   company: St. Andrews Presbyterian Church
+  #   company_url: 'https://sapres.org'
+  #   company_logo:
+  #   location: California
+  #   date_start: '2016-09-01'
+  #   date_end: '2020-03-01'
+  #   description: Responsible for a small group of 1st to 3rd grade boys. Prepared lesson plans and activities.
 
 
 design:

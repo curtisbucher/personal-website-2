@@ -10,7 +10,7 @@ tags:
   - C
 external_link: https://github.com/curtisbucher/curvy
 image:
-  filename: curvy_logo.png
+  filename: featured.png
   focal_point: Smart
   preview_only: true
 ---

@@ -1,18 +1,19 @@
 ---
-title: Curvy
-summary: Rewriting the CPython interpreter from scratch in order to gain a greater understanding of the language.
+title: C Chess
+summary: A Chess Engine written in C. Build with the ultimate intention to destroy my brother in a game of chess.
 tags:
-- Python
-date: "2020-06-01T00:00:00Z"
+- C
+- Chess
+date: "2021-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/curtisbucher/curvy"
+external_link: "https://github.com/curtisbucher/c-chess"
 
 image:
-  caption:
+  caption: The Mechanical Turk, the world's "first" chess computer.
   focal_point: Smart
 
-links: ""
+links:
 url_code: ""
 url_pdf: ""
 url_slides: ""

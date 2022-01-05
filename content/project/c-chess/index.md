@@ -1,7 +1,7 @@
 ---
 title: C-Chess
-subtitle: A chess engine written in C, designed to demolish my brother (ELO
-  1500) in a  chess match.
+subtitle: Or Brothersbane. A chess engine designed to demolish my brother in a
+  chess match.
 date: 2021-09-14T06:17:04.859Z
 summary: A Chess Engine written in C. Build with the ultimate intention to
   destroy my brother in a game of chess.
@@ -26,10 +26,7 @@ image:
 <p align = "center">
   <img src="https://www.curtisbucher.com/uploads/mechanica_turk.jpeg" alt="The Mechanical Turk" />
 </p>
-
-<h6 align="center"> The mechanical turk, the world's "first" chess computer. In reality, the machine was a hoax.</h6>
-
-<h1 align="center">C Chess</h1> <h3 align="center">or <i>Brothersbane</i> </h3> <p align="center"><i>A chess engine written in C, designed to demolish my brother in a chess match.</i> </p>
+###### The mechanical turk, the world's "first" chess computer. In reality, the machine was a hoax.
 
 ### Principles
 

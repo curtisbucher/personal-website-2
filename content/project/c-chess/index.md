@@ -19,15 +19,10 @@ links:
 image:
   filename: featured.jpeg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   caption: The Mechanical Turk, the world's "first" chess computer.
   alt_text: ""
 ---
-<p align = "center">
-  <img src="https://www.curtisbucher.com/uploads/mechanica_turk.jpeg" alt="The Mechanical Turk" />
-</p>
-###### The mechanical turk, the world's "first" chess computer. In reality, the machine was a hoax.
-
 ### Principles
 
 To increase efficiency, as well as to provide additional challenge to myself, I am designing *Brothersbane* from the ground up to be as low-level as possible, squeezing the most possible function from the least number of operations. While the performance increase from such a goal is likely negligible, it provides interesting constraints on my implementation. In researching ways to implement such a chess algorithm, I came accross the concept of "bitboard representation."

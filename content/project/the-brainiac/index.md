@@ -11,10 +11,15 @@ tags:
 categories:
   - Hardware
 external_link: https://www.curtisbucher.com/project/the-brainiac/
+links:
+  - url: https://github.com/curtisbucher/braiNIAC
+    icon: github
+    icon_pack: fab
+    name: GitHub Repository
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 ![Creepy Programmer](https://cortexitrecruitment.com/wp-content/uploads/commodore-1200x565.jpg)
 

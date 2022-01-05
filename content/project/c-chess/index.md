@@ -1,7 +1,7 @@
 ---
 title: C-Chess
-subtitle: Or Brothersbane. A chess engine designed to demolish my brother in a
-  chess match.
+subtitle: "or Brothersbane: A chess engine designed to demolish my brother in a
+  chess match."
 date: 2021-09-14T06:17:04.859Z
 summary: A Chess Engine written in C. Build with the ultimate intention to
   destroy my brother in a game of chess.
@@ -16,6 +16,8 @@ external_link: https://www.curtisbucher.com/project/c-chess/
 links:
   - url: https://github.com/curtisbucher/c-chess
     name: GitHub Repository
+    icon_pack: fab
+    icon: github
 image:
   filename: featured.jpeg
   focal_point: Smart

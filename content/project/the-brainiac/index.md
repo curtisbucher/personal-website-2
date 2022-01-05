@@ -2,7 +2,7 @@
 title: The braiNIAC
 subtitle: A homemade native brainfuck processor, written in Verilog.
 date: 2022-01-05T07:08:53.882Z
-summary: The braiNIAC is my imlementation of a computer processor designed to
+summary: The braiNIAC is my implementation of a computer processor designed to
   natively run brainfuck machine code.
 draft: false
 featured: false
@@ -11,7 +11,7 @@ tags:
   - Hardware
 categories:
   - Hardware
-external_link: https://github.com/curtisbucher/braiNIAC
+external_link: https://www.curtisbucher.com/project/the-brainiac/
 image:
   filename: https://cortexitrecruitment.com/wp-content/uploads/commodore-1200x565.jpg
   focal_point: Smart

@@ -12,7 +12,7 @@ categories:
   - Hardware
 external_link: https://www.curtisbucher.com/project/the-brainiac/
 image:
-  filename: https://cortexitrecruitment.com/wp-content/uploads/commodore-1200x565.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---

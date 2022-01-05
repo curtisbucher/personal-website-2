@@ -10,7 +10,12 @@ featured: false
 tags:
   - C
   - Chess
+categories:
+  - Software
 external_link: https://www.curtisbucher.com/project/c-chess/
+links:
+  - url: https://github.com/curtisbucher/c-chess
+    name: GitHub Repository
 image:
   filename: featured.jpeg
   focal_point: Smart

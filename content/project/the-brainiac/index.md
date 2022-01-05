@@ -4,7 +4,7 @@ subtitle: A homemade native brainfuck processor, written in Verilog.
 date: 2022-01-05T07:08:53.882Z
 summary: A homemade native brainfuck processor, written in Verilog.
 draft: false
-featured: false
+featured: true
 authors: []
 tags:
   - Hardware

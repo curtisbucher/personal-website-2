@@ -37,6 +37,6 @@ highlight_name: false
 title: Curtis Bucher
 email: cpbucher5@gmail.com
 ---
-Hello, my name is Curtis Bucher, and I am a first-year engineering student at Cal Poly, San Luis Obispo. In my free time, I enjoy reading, playing chess, programming, going to the beach and hiking San Luis Obispo. 
+Hello, my name is Curtis Bucher, and I am a Computer Engineering Student at Cal Poly, San Luis Obispo. In my free time, I enjoy reading, playing chess, programming, going to the beach and hiking San Luis Obispo. 
 
 I also particularly enjoy working on engaging personal projects. Currently, I am engaged in an effort to rewrite parts of the CPython interpreter in order to gain a greater understanding of how Python works underneath the hood. 

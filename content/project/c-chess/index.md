@@ -14,7 +14,7 @@ external_link: https://www.curtisbucher.com/project/c-chess/
 image:
   filename: featured.jpeg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: The Mechanical Turk, the world's "first" chess computer.
   alt_text: ""
 ---

@@ -20,7 +20,7 @@ main:
   #   url: '#featured'
   #   weight: 50
   - name: Resume
-    url: uploads/resume.pdf
+    url: uploads/CurtisBucherResume.pdf
     weight: 30
 
   - name: Posts

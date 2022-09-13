@@ -3,10 +3,10 @@ role: Computer Engineering Undergrad
 avatar_filename: avatar.jpg
 bio: Computer Engineering Undergrad at Cal Poly San Luis Obispo
 interests:
+  - Computer Architecture
   - Python
   - C
   - Artificial Intelligence
-  - Computer Architecture
   - Circuit Design
   - Web Design
 social:
